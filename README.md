@@ -1,5 +1,5 @@
-# Image-Forensic-Datasets
-List of datasets used for developing Image-Forensic algorithms
+# Image-Forensic-Resources
+List of resources used for developing Image-Forensic algorithms
 
 ## Datasets
 
