@@ -15,6 +15,4 @@ List of resources used for developing Image-Forensic algorithms
 | IEEE | 1050 | 450 | “The 1st IEEE IFS-TC Image Forensics Challenge”, http://ifc.recod.ic.unicamp.br/fc.website/index.py, 2013 |
 | In the Wild | 0 | 210 | “Fighting Fake News: Image Splice Detection via Learned Self-Consistency”, European Conference on Computer Vision (ECCV), Munich, Germany, September 2018 |
 | RT | 220 | 220 | “Evaluation of random field models in multi-modal unsupervised tampering localization”, 2016 IEEE International Workshop on Information Forensics and Security (WIFS), Abu Dhabi, United Arab Emirates, December 2016 |
-| Wild Web | - | - | “Detecting image splicing in the wild (WEB)”, 2015 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), Turin, Italy, July 2015 |
 | NOTIS | 0 | 800 | University of Trento, University of Innsbruck, University of Bolzano, “Humans in a digital era - New Opportunities and Threats for Information Security (NOTIS)”, http://euregiommsec.info/image-forensics-challenge |
-| GRIP | 0 | 80 | - |
